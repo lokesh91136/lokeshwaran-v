@@ -1,0 +1,114 @@
+{
+    "domain": {
+        "keywords": [
+            "domain",
+            "domain name",
+            "url",
+            "website address"
+        ],
+        "responses": [
+            "A domain name is your website's address on the internet (e.g., www.yourwebsite.com). You can register domains through providers like GoDaddy, Namecheap, or Google Domains.",
+            "Domain names typically cost $10-15 per year. You'll need to renew them annually to keep your website accessible.",
+            "To register a domain, choose a domain registrar, check availability, and complete the registration process with your contact information."
+        ]
+    },
+    "hosting": {
+        "keywords": [
+            "hosting",
+            "web hosting",
+            "server",
+            "host website"
+        ],
+        "responses": [
+            "Web hosting is a service that stores your website files on servers, making them accessible online. Popular hosting providers include Bluehost, HostGator, and SiteGround.",
+            "Shared hosting is the most affordable option ($3-10/month), while VPS and dedicated hosting offer more resources at higher costs.",
+            "When choosing hosting, consider factors like uptime, customer support, storage space, and bandwidth requirements."
+        ]
+    },
+    "design": {
+        "keywords": [
+            "design",
+            "layout",
+            "look",
+            "appearance",
+            "theme",
+            "template"
+        ],
+        "responses": [
+            "Website design involves creating an attractive, user-friendly layout. You can use website builders like Wix, Squarespace, or WordPress with themes.",
+            "Good website design should be responsive (mobile-friendly), have clear navigation, and reflect your brand identity.",
+            "Consider hiring a professional designer or using pre-made templates to create a professional-looking website."
+        ]
+    },
+    "content": {
+        "keywords": [
+            "content",
+            "text",
+            "images",
+            "videos",
+            "blog",
+            "pages"
+        ],
+        "responses": [
+            "Website content includes text, images, videos, and other media. Quality content should be relevant, engaging, and optimized for search engines.",
+            "Regular content updates help keep your website fresh and improve search engine rankings.",
+            "Consider creating a content calendar to plan regular updates and maintain consistency."
+        ]
+    },
+    "seo": {
+        "keywords": [
+            "seo",
+            "search engine",
+            "google",
+            "ranking",
+            "traffic"
+        ],
+        "responses": [
+            "SEO (Search Engine Optimization) helps your website rank higher in search results. Key factors include quality content, fast loading speed, and mobile-friendliness.",
+            "To improve SEO, use relevant keywords, create quality content, optimize images, and build quality backlinks.",
+            "SEO is a long-term strategy that requires consistent effort and monitoring of your website's performance."
+        ]
+    },
+    "security": {
+        "keywords": [
+            "security",
+            "ssl",
+            "https",
+            "secure",
+            "protection"
+        ],
+        "responses": [
+            "Website security is crucial. Always use HTTPS (SSL certificates) to encrypt data transmission between your site and visitors.",
+            "Keep your website software, plugins, and themes updated to protect against security vulnerabilities.",
+            "Consider implementing additional security measures like firewalls, regular backups, and malware scanning."
+        ]
+    },
+    "performance": {
+        "keywords": [
+            "website",
+            "speed",
+            "performance",
+            "loading",
+            "fast",
+            "slow"
+        ],
+        "responses": [
+            "Website speed is important for user experience and SEO. Optimize images, use caching, and choose fast hosting to improve performance.",
+            "Tools like Google PageSpeed Insights can help you identify and fix performance issues on your website.",
+            "Aim for a loading time of under 3 seconds for optimal user experience."
+        ]
+    },
+    "maintenance": {
+        "keywords": [
+            "maintenance",
+            "update",
+            "backup",
+            "monitor"
+        ],
+        "responses": [
+            "Regular website maintenance includes updating software, backing up data, monitoring performance, and checking for broken links.",
+            "Set up automated backups and consider using monitoring tools to track your website's uptime and performance.",
+            "Schedule regular maintenance tasks to keep your website running smoothly and securely."
+        ]
+    }
+}
